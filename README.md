@@ -24,4 +24,4 @@ Currently supported commands are listed below
 
 ## In development
 
-1. [ ] Template generation #1
+1. [ ] Template generation [issue](https://github.com/BR218/TeleBot/issues/1)
