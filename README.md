@@ -24,4 +24,4 @@ Currently supported commands are listed below
 
 ## In development
 
-1. [ ] Template generation by [@jrudransh](https://github.com/JRudransh)
+1. [ ] Template generation #1
